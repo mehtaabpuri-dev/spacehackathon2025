@@ -1,0 +1,14 @@
+Optimal Pair Found with Combined Score: 0.3927
+
+--- Optimal Habitat Site ---
+> Coordinates (row, col): (51, 21)
+> Avg Illumination: 0.0564%
+> Terrain Roughness (Std Dev): 1.4415 m
+
+--- Optimal Mining Site ---
+> Coordinates (row, col): (4, 84)
+> Avg Water-Ice Probability: 0.9510
+> Terrain Roughness (Std Dev): 1.5705 m
+
+--- Power Cable Path ---
+> Path Length: 111 cells (11100 m)
